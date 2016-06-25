@@ -1,0 +1,8 @@
+---
+layout: default
+title:Qboooogle,hello.
+---
+
+<h2>{{page.title}}</h2>
+<p>我的第一篇技术文章</p>
+<p>{{page.date | date_to_string}}</p>
